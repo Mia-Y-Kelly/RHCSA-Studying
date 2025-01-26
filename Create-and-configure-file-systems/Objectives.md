@@ -1,5 +1,5 @@
 ## Create and configure file systems
-[return to all](../All%20Objectives.md)
+[return to all](../Readme.md)
 * Create, mount, unmount, and use vfat, ext4, and xfs file systems
 * Mount and unmount network file systems using NFS
 * Configure autofs

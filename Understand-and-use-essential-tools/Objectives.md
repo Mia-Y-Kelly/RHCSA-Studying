@@ -1,4 +1,5 @@
 # Understand and use essential tools
+[return to all](../Readme.md)
 * Access a shell prompt and issue commands with correct syntax
 * Use input-output redirection (>, >>, |, 2>, etc.)
 * Use grep and regular expressions to analyze text
@@ -10,5 +11,3 @@
 * Create hard and soft links
 * List, set, and change standard ugo/rwx permissions
 * Locate, read, and use system documentation including man, info, and files in /usr/share/doc
-
-[return to all](../All%20Objectives.md)

@@ -1,4 +1,5 @@
 ## Configure local storage
+[return to all](../Readme.md)
 * List, create, delete partitions on MBR and GPT disks
 * Create and remove physical volumes
 * Assign physical volumes to volume groups

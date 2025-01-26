@@ -1,5 +1,5 @@
 ## Deploy, configure, and maintain systems
-[return to all](../All%20Objectives.md)
+[return to all](../Readme.md)
 * Schedule tasks using at and cron
 * Start and stop services and configure services to start automatically at boot
 * Configure systems to boot into a specific target automatically

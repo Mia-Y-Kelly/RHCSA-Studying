@@ -1,5 +1,5 @@
 ## Manage security
-[return to all](../All%20Objectives.md)
+[return to all](../Readme.md)
 * Configure firewall settings using firewall-cmd/firewalld
 * Manage default file permissions
 * Configure key-based authentication for SSH

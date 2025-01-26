@@ -1,5 +1,5 @@
 ## Operate running systems
-[return to all](../All%20Objectives.md)
+[return to all](../Readme.md)
 * Boot, reboot, and shut down a system normally
 * Boot systems into different targets manually
 * Interrupt the boot process in order to gain access to a system
