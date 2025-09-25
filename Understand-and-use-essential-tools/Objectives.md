@@ -1,5 +1,6 @@
 # Understand and use essential tools
 [return to all](../Readme.md)
+[also see miscellaneous](./Miscellaneous.md)
 * Access a shell prompt and issue commands with correct syntax
 * Use input-output redirection (>, >>, |, 2>, etc.)
 * Use grep and regular expressions to analyze text
