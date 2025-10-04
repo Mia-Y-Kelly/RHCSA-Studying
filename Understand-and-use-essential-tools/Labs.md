@@ -5,7 +5,7 @@
 | ----------    | --------------- |
 | `[label]`     | Contains the label used as an identifier in the repository file | 
 | `name=`       | Mandatory option that specifies the name of the repository      |
-| `mirrorlist=` | Optional parameter that refers to a URL where information about mirror servers for this server can be obtained. Typicall used for big online repositories only. |
+| `mirrorlist=` | Optional parameter that refers to a URL where information about mirror servers for this server can be obtained. Typically used for big online repositories only. |
 | `baseurl=`    | Mandatory option that refers to the base URL where the RPM packages are found. |
 | `gpgcheck=`   | Set 1 if a GNU Privacy Guard (GPG) integrity check needs to be performed on the packages. If set to 1, a GPG key is required. |
 | `gpgkey=`     | Specifies the location of the GPG key that is used to check package integrity. |

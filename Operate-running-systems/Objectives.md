@@ -10,3 +10,7 @@
 * Preserve system journals
 * Start, stop, and check the status of network services
 * Securely transfer files between systems
+
+| Subpages | Links |
+| --------- | ----|
+| Logging | [link](Logging.md) |

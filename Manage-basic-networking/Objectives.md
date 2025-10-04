@@ -4,3 +4,7 @@
 * Configure hostname resolution
 * Configure network services to start automatically at boot
 * Restrict network access using firewall-cmd/firewall
+
+| Subpages | Links |
+| --------- | ----|
+| Logging | [link](Setting%20up%20NTP.md) |
