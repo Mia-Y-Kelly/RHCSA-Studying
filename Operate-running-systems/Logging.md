@@ -36,3 +36,6 @@ There are two primary things logging processes:
     2. `Storage=volatile` will write to `/run/log/journal`
     3. `Storage=persistent` will write to `/var/log/journal`. It will create this file if it does not exist.
     4. `Storage=none` will not store anything
+
+## `rsyslog`
+* rsyslog determines where files should be logs based on facility (category), priority, and destination
